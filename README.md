@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @palascinochristian  
 - 👀 I’m passionate about web development and creating engaging digital experiences.  
-- 🌱 I’m currently deepening my knowledge of HTML, CSS, JavaScript, ReactJS, PHP, Laravel, and MySQL — technologies I already enjoy working with.  
+- 🌱 I’m currently deepening my knowledge of HTML, CSS, JavaScript, ReactJS, PHP, Laravel, and MySQL — technologies I already enjoy working with. Additionally, I’m learning Python.  
 - 💞️ I’m looking to collaborate on web projects where I can grow and contribute.  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/christian-palascino-57191329a)  
 - 😄 Pronouns: he/him  
@@ -24,7 +24,10 @@
   ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)    
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
   ![Laravel](https://img.shields.io/badge/-Laravel-EF4135?style=flat&logo=laravel&logoColor=white)  
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+
+- **Other Technologies**:  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 
 - **Other Tools**:  
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
