@@ -1,40 +1,43 @@
-### Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="./christian-palascino-banner.png" alt="Christian Palascino banner" width="100%" />
+</p>
 
-- 👋 Hi, I’m @palascinochristian  
-- 👀 I’m passionate about web development and creating engaging digital experiences.  
-- 🌱 I’m currently deepening my knowledge of HTML, CSS, JavaScript, ReactJS, PHP, Laravel, and MySQL — technologies I already enjoy working with. Additionally, I’m learning Python.  
-- 💞️ I’m looking to collaborate on web projects where I can grow and contribute.  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/christian-palascino-57191329a)  
-- 😄 Pronouns: he/him  
-- ⚡ Fun fact: I love turning ideas into real, functional websites — and I never stop learning!
+
+### Hi, I'm Christian 👨‍💻
+**Jr. Fullstack Web Developer based in Turin, 24 y/o**  
+I create engaging and responsive digital experiences. I love bringing ideas to life with clean, functional code.
+
+- 💻 Working with **React, Laravel, MySQL, JavaScript, PHP**
+- 🔭 Learning **Python**, diving deeper into full-stack development
+- 🤝 Open to collaborations on web projects
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/christian-palascino-57191329a)
 
 ---
 
-### 🛠 Technologies & Tools
+### 🚀 Tech Stack
 
-- **Frontend**:  
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/-CSS3-663399?style=flat&logo=css3&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-  ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+</p>
 
-- **Backend**:  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-  ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)    
-  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
-  ![Laravel](https://img.shields.io/badge/-Laravel-EF4135?style=flat&logo=laravel&logoColor=white)  
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+---
 
-- **Other Technologies**:  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+### 📊 GitHub Stats
 
-- **Other Tools**:  
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=palascinochristian&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palascinochristian&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
-<!---
-palascinochristian/palascinochristian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🧠 Fun Fact  
+I turn caffeine into code and bugs into… more coffee ☕
